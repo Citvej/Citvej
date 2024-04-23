@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Citvej
 - 👀 I’m interested in Product development
-- 🌱 I’m currently learning Remix.js
-- 💞️ I’m looking to collaborate on software related ventures
-- 📫 Reach me at neven.jevtic@creativ80.com
+- 🌱 I’m working on BoostBuddy.io
+- 💞️ I’m developing passion for AI solutions
+- 📫 Reach me at neven@boostbuddy.io
 
 <!---
 Citvej/Citvej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
